@@ -1,0 +1,8 @@
+# Folders
+.ipynb_checkpoints/
+data/
+weights/
+results/
+
+# Files
+.DS_Store
